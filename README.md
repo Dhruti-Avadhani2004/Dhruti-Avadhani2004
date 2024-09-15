@@ -21,12 +21,11 @@ Welcome to my GitHub! I’m **Dhruti Avadhani**, a passionate learner diving dee
 ## Certifications
 
 <div>
-<img src="[![Sound the Alarm](https://img.shields.io/badge/Google_Cybersecurity-Coursera-green?logo=google&logoColor=white&style=for-the-badge)](https://www.coursera.org/account/accomplishments/YOUR_CERTIFICATE_ID)
-" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="[![Sound the Alarm](https://img.shields.io/badge/Google_Cybersecurity-Coursera-green?logo=google&logoColor=white&style=for-the-badge)]" />
+<!-- <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
 </div>
 
 <!--
