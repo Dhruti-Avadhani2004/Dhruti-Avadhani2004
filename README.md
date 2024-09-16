@@ -19,13 +19,23 @@ Welcome to my GitHub! I’m **Dhruti Avadhani**, a passionate learner diving dee
 -->
 
 ## Certifications
-
+<!--
 <div>
- <img src="![Static Badge](https://img.shields.io/badge/:badgeContent)" />
-<!-- <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />  -->
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> 
 </div>
+-->
+| Certificate | Issuing Authority | Summary |
+|-----------------|-----------------|-----------------|
+| Foundations of Cybersecurity    | Google Coursera    | 1. Communicating effectively
+2. Collaborating with others
+3. Identifying threats, risks, and vulnerabilities
+4. Problem-solving    |
+| Row 2, Col 1    | Row 2, Col 2    | Row 2, Col 3    |
+| Row 3, Col 1    | Row 3, Col 2    | Row 3, Col 3    |
+
 
 <!--
 ## Tools
