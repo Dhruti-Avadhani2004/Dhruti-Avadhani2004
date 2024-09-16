@@ -27,14 +27,17 @@ Welcome to my GitHub! I’m **Dhruti Avadhani**, a passionate learner diving dee
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> 
 </div>
 -->
-| Certificate | Issuing Authority | Summary |
+| Certificate | Issuing Authority | Skillsets Gained |
 |-----------------|-----------------|-----------------|
-| Foundations of Cybersecurity    | Google Coursera    | 1. Communicating effectively
-2. Collaborating with others
-3. Identifying threats, risks, and vulnerabilities
-4. Problem-solving    |
-| Row 2, Col 1    | Row 2, Col 2    | Row 2, Col 3    |
-| Row 3, Col 1    | Row 3, Col 2    | Row 3, Col 3    |
+| Foundations of Cybersecurity    | Google Coursera    | 1. Communicating effectively 2. Collaborating with others 3. Identifying threats, risks, and vulnerabilities 4. Problem-solving    |
+| Play it Safe: Manage Security Risks    | Google Coursera     | 1. Applying the CIA triad to workplace situations 2. Analyzing log data 3. Identifying the phases of an incident response playbook   |
+| Connect and Protect: Networks and Network Security    | Google Coursera   | 1. Configuring a firewall 2. Recognizing components of computer networks and cloud computing 3. Analyzing threats 4. Implementing security hardening    |
+|Tools of the Trade: Linux and SQL| Google Coursera| 1. Interacting with both a graphical user interface (GUI) and command line interface (CLI) 2. Querying a database with SQL                                 |
+| Assets, Threats, and Vulnerabilities|Google Coursera| 1. Classifying assets 2. Decrypting a message 3. Searching the CVE database for vulnerable applications 4. Analyzing attack surfaces 5. Applying the PASTA threat modeling framework                                 |
+|Sound the Alarm: Detection and Response|Google Coursera| 1. Capturing, viewing, and analyzing a packet 2. Investigating a suspicious hash file 3. Following a playbook 4. Examining alerts, logs, and rules|
+|                                         |                         |                                 |
+|                                         |                         |                                 |
+|                                         |                         |                                 |
 
 
 <!--
