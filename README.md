@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=130&section=header&text=DHRUTI%20AVADHANI&fontColor=00ff41&fontSize=38&fontAlignY=45&desc=CYBERSECURITY%20ENGINEER%20%7C%20OFFENSIVE%20SECURITY%20%7C%20AI%20%C3%97%20SECURITY&descAlignY=72&descSize=12&fontFamily=monospace&stroke=00ff41&strokeWidth=1" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=130&section=header&text=DHRUTI%20AVADHANI&fontColor=00ff41&fontSize=38&fontAlignY=45&desc=CYBERSECURITY%20INTERN%20%7C%20OFFENSIVE%20SECURITY%20%7C%20AI%20%C3%97%20SECURITY&descAlignY=72&descSize=12&fontFamily=monospace&stroke=00ff41&strokeWidth=1" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3000&pause=500&color=00FF41&background=00000000&width=600&lines=%24+whoami;cybersecurity_engineer+%7C+offensive_sec+%7C+ai%C3%97security;built+a+genAI+pentest+agent+%E2%86%92+46+vulns+found;currently%3A+IIT+Kanpur+%28E%26ICT+Academy%29+%5BONLINE%5D" alt="Typing SVG"/>
