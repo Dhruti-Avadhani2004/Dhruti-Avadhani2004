@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=120&section=header&text=YOUR_HANDLE&fontColor=00ff41&fontSize=40&fontAlignY=50&desc=CYBERSECURITY%20ENGINEER%20%7C%20RED%20TEAM%20%7C%20ETHICAL%20HACKER&descAlignY=75&descSize=13&fontFamily=monospace&stroke=00ff41&strokeWidth=1" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=120&section=header&text=Dhruti-Avadhani2004&fontColor=00ff41&fontSize=40&fontAlignY=50&desc=CYBERSECURITY%20INTERN%20%7C%20RED%20TEAM%20%7C%20ETHICAL%20HACKER&descAlignY=75&descSize=13&fontFamily=monospace&stroke=00ff41&strokeWidth=1" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=500&color=00FF41&background=00000000&width=500&lines=root%40localhost%3A~%23+whoami;security_researcher%2C+ctf_player%2C+red_team;currently+breaking+things+%F0%9F%94%A5;%5BSYSTEM+ONLINE%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=500&color=00FF41&background=00000000&width=500&lines=root%40localhost%3A~%23+whoami;cybersecurity_intern%2C+ctf_player%2C+red_team;currently+breaking+things+%F0%9F%94%A5;%5BSYSTEM+ONLINE%5D" alt="Typing SVG" />
 </a>
 
 ---
 
 ### `$ cat about_me.sh`
 ```bash
-┌─ specialising in: offensive security, CTF, threat modelling
-├─ currently breaking: CVEs, custom exploits, zero-days  
-└─ currently building: stealth tooling, OSINT pipelines
+┌─ specialising in: cybersecurity, web application security, computer networks, VAPT, OSINT
+├─ currently breaking: HackTheBox, TryHackMe, Portswigger
+└─ currently building: OSINT tools, SGC Gatekeeper, other network security projects
 ```
 
 ---
@@ -19,28 +19,23 @@
 
 **Core Arsenal**
 
-[![Skills](https://skillicons.dev/icons?i=python,bash,c,rust,linux,docker,git,aws,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,c++,python,bash,kali-linux,git,mysql)](https://skillicons.dev)
 
-`Metasploit` `Burp Suite` `Nmap` `Wireshark` `Ghidra` `GDB`
+`Metasploit` `Burp Suite` `Nmap` `Wireshark` `Nessus` `Wazuh` `MITRE ATT&CK`
 
 **Currently Loading**
 
-[![Learning](https://skillicons.dev/icons?i=rust,kubernetes)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
 
 ---
 
 ### `$ ls publications/`
 
 <div>
-  <a href="https://medium.com/@YOUR_HANDLE">
+  <a href="https://medium.com/@dhruti.avadhani2004">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FF41" alt="Medium"/>
   </a>
-  <a href="https://dev.to/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=00FF41" alt="Dev.to"/>
-  </a>
-  <a href="https://YOUR_BLOG">
-    <img src="https://img.shields.io/badge/Security_Blog-000000?style=for-the-badge&logo=ghost&logoColor=00FF41" alt="Blog"/>
-  </a>
+  
 </div>
 
 Writing on red team TTPs, CTF writeups, and vulnerability research. Occasional deep-dives into AI-assisted exploitation and automated offensive tooling.
@@ -50,20 +45,14 @@ Writing on red team TTPs, CTF writeups, and vulnerability research. Occasional d
 ### `$ connect --all`
 
 <div>
-  <a href="https://linkedin.com/in/YOUR_HANDLE">
+  <a href="[https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/dhruti-avadhani-456758280/)">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
   </a>
-  <a href="https://github.com/YOUR_HANDLE">
+  <a href="https://github.com/Dhruti-Avadhani2004">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
   </a>
-  <a href="https://app.hackthebox.com/users/YOUR_ID">
+  <a href="https://app.hackthebox.com/users/3605643">
     <img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41"/>
-  </a>
-  <a href="https://ctftime.org/user/YOUR_ID">
-    <img src="https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=target&logoColor=00FF41"/>
-  </a>
-  <a href="https://credly.com/users/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Credly-000000?style=for-the-badge&logo=credly&logoColor=FF6B00"/>
   </a>
 </div>
 
@@ -72,7 +61,7 @@ Writing on red team TTPs, CTF writeups, and vulnerability research. Occasional d
 ### `$ sudo access --recruiter`
 
 > [!IMPORTANT]
-> <a href="YOUR_RESUME_LINK">[ CLASSIFIED ] Download Resume</a>
+> <a href="https://drive.google.com/file/d/1pWg84_MDl0SWb4cbUC-iwhJ-vadsNOvP/view?usp=sharing">[ CLASSIFIED ] Download Resume</a>
 > *Clearance required. Verified recruiters only.*
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=40&section=footer&fontColor=00ff41&fontSize=10&text=%3E_EOF%20—%20thanks%20for%20the%20recon&fontAlign=50&fontAlignY=55&fontFamily=monospace&stroke=00ff41&strokeWidth=1" alt="footer"/>
