@@ -8,12 +8,6 @@
 
 ---
 
-### `$ cat about_me.sh`
-```bash
-┌─ currently obsessed with: cybersecurity, OSINT, networking, breaking lab machines
-├─ currently learning: things i should have known three labs ago
-└─ currently building: projects that sounded easier in my head
-```
 <div>
     <img src="./terminal (2).gif" alt="About Me Terminal GIF"/>
 </div>
