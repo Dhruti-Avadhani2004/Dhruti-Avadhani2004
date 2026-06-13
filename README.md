@@ -69,5 +69,9 @@ turning coffee into security writeups since day zero :')
 >
 > *No exploits required. Yet...*
 
+<div align="center">
+    <img src="./hacker_recruiter.gif" alt="pls hire me"/>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=40&section=footer&fontColor=00ff41&fontSize=10&text=%3E_EOF%20—%20thanks%20for%20the%20recon&fontAlign=50&fontAlignY=55&fontFamily=monospace&stroke=00ff41&strokeWidth=1" alt="footer"/>
 
