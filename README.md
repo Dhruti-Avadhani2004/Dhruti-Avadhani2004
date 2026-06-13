@@ -1,4 +1,5 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=120&section=header&text=Dhruti-Avadhani2004&fontColor=00ff41&fontSize=40&fontAlignY=50&desc=CYBERSECURITY%20INTERN%20%7C%20RED%20TEAM%20%7C%20ETHICAL%20HACKER&descAlignY=75&descSize=13&fontFamily=monospace&stroke=00ff41&strokeWidth=1" alt="header"/> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=ff2d95,ff4fa3,ff00ff&height=10" alt="neon-top"/>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=120&section=header&text=Dhruti-Avadhani2004&fontColor=00ff41&fontSize=40&fontAlignY=50&desc=Collecting%20Flags%20Like%20They're%20Pok%C3%A9mon&descAlignY=75&descSize=13&fontFamily=monospace&stroke=00ff41&strokeWidth=1" alt="header"/>
 
 
@@ -71,3 +72,5 @@ turning coffee into security writeups since 2025...
 > *Clearance required. Verified recruiters only.*
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=40&section=footer&fontColor=00ff41&fontSize=10&text=%3E_EOF%20—%20thanks%20for%20the%20recon&fontAlign=50&fontAlignY=55&fontFamily=monospace&stroke=00ff41&strokeWidth=1" alt="footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=ff00ff,ff2d95,ff4fa3&height=10" alt="neon-bottom"/>
