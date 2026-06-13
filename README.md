@@ -51,7 +51,7 @@ turning coffee into security writeups since 2025...
 ### `$ connect --all`
 
 <div>
-  <a href="[https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/dhruti-avadhani-456758280/)">
+  <a href="https://www.linkedin.com/in/dhruti-avadhani-456758280/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
   </a>
   <a href="https://github.com/Dhruti-Avadhani2004">
