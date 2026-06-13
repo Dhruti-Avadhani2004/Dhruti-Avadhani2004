@@ -1,10 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=120&section=header&text=Dhruti-Avadhani2004&fontColor=00ff41&fontSize=40&fontAlignY=50&desc=Collecting%20Flags%20Like%20They're%20Pok%C3%A9mon&descAlignY=75&descSize=13&fontFamily=monospace&stroke=00ff41&strokeWidth=1" alt="header"/>
-
-
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=500&color=00FF41&background=00000000&width=520&lines=root%40localhost%3A~%23+whoami;just+a+student+breaking+things+for+fun;currently+on+%22one+more+TryHackMe+room%22+loop;learning+security+one+bug+at+a+time;%5BSYSTEM%3A+SLIGHTLY+CONFUSED%2C+STILL+RUNNING%5D" alt="Typing SVG" />
 </a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=120&section=header&text=Dhruti-Avadhani2004&fontColor=00ff41&fontSize=40&fontAlignY=50&desc=Collecting%20Flags%20Like%20They're%20Pok%C3%A9mon&descAlignY=75&descSize=13&fontFamily=monospace&stroke=00ff41&strokeWidth=1" alt="header"/>
 
 ---
 
