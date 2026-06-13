@@ -67,7 +67,7 @@ turning coffee into security writeups since 2025...
 ### `$ sudo access --recruiter`
 
 > [!IMPORTANT]
-> <a href="https://drive.google.com/file/d/1pWg84_MDl0SWb4cbUC-iwhJ-vadsNOvP/view?usp=sharing">[ CLASSIFIED ] Download Resume</a>
+> <a href="https://drive.google.com/file/d/1pWg84_MDl0SWb4cbUC-iwhJ-vadsNOvP/view?usp=sharing">[CLASSIFIED] Download Resume</a>
 > *Clearance required. Verified recruiters only.*
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=40&section=footer&fontColor=00ff41&fontSize=10&text=%3E_EOF%20—%20thanks%20for%20the%20recon&fontAlign=50&fontAlignY=55&fontFamily=monospace&stroke=00ff41&strokeWidth=1" alt="footer"/>
