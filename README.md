@@ -40,7 +40,7 @@
   
 </div>
 
-turning coffee into security writeups since 2026...
+turning coffee into security writeups since day zero :')
 
 ---
 
