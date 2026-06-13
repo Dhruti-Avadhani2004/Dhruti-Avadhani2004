@@ -28,6 +28,8 @@
 
 ### `$ ls publications/`
 
+### `$ ls publications/`
+
 <div>
   <a href="https://medium.com/@dhruti.avadhani2004">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FF41" alt="Medium"/>
@@ -35,10 +37,11 @@
   <a href="https://ieeexplore.ieee.org/document/11544415">
     <img src="https://img.shields.io/badge/IEEE%20Publication-000000?style=for-the-badge&logo=ieee&logoColor=00FF41" alt="IEEE Paper"/>
   </a>
-  
 </div>
 
-turning coffee into security writeups since day zero :')
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=4000&pause=0&color=00FF41&background=00000000&center=true&vCenter=true&width=550&height=50&lines=turning+coffee+into+security+writeups+since+day+zero+:')" alt="Waving Text" />
+</div>
 
 ---
 
