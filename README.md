@@ -37,10 +37,13 @@
   <a href="https://medium.com/@dhruti.avadhani2004">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=00FF41" alt="Medium"/>
   </a>
+  <a href="https://ieeexplore.ieee.org/document/11544415">
+    <img src="https://img.shields.io/badge/IEEE%20Publication-000000?style=for-the-badge&logo=ieee&logoColor=00FF41" alt="IEEE Paper"/>
+  </a>
   
 </div>
 
-turning coffee into security writeups since 2025...
+turning coffee into security writeups since 2026...
 
 ---
 
