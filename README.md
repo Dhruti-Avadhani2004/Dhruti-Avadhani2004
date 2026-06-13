@@ -8,9 +8,9 @@
 
 ### `$ cat about_me.sh`
 ```bash
-┌─ specialising in: cybersecurity, web application security, computer networks, VAPT, OSINT
-├─ currently breaking: HackTheBox, TryHackMe, Portswigger
-└─ currently building: OSINT tools, SGC Gatekeeper, other network security projects
+┌─ currently obsessed with: cybersecurity, OSINT, networking, breaking lab machines
+├─ currently learning: things i should have known three labs ago
+└─ currently building: projects that sounded easier in my head
 ```
 
 ---
@@ -19,7 +19,7 @@
 
 **Core Arsenal**
 
-[![Skills](https://skillicons.dev/icons?i=c,c++,python,bash,kali-linux,git,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,mysql)](https://skillicons.dev)
 
 `Metasploit` `Burp Suite` `Nmap` `Wireshark` `Nessus` `Wazuh` `MITRE ATT&CK`
 
@@ -38,7 +38,7 @@
   
 </div>
 
-Writing on red team TTPs, CTF writeups, and vulnerability research. Occasional deep-dives into AI-assisted exploitation and automated offensive tooling.
+turning coffee into security writeups since 2025...
 
 ---
 
