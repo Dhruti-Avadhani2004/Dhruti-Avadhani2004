@@ -6,7 +6,7 @@
 </a> -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=500&color=00FF41&background=00000000&width=520&lines=root%40localhost%3A~%23+whoami;just+a+student+breaking+CTFs+for+fun;currently+on+%22one+more+TryHackMe+room%22+loop;learning+security+one+bug+at+a+time;%5BSYSTEM%3A+SLIGHTLY+CONFUSED%2C+STILL+RUNNING%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=500&color=00FF41&background=00000000&width=520&lines=root%40localhost%3A~%23+whoami;just+a+student+breaking+things+for+fun;currently+on+%22one+more+TryHackMe+room%22+loop;learning+security+one+bug+at+a+time;%5BSYSTEM%3A+SLIGHTLY+CONFUSED%2C+STILL+RUNNING%5D" alt="Typing SVG" />
 </a>
 
 ---
